@@ -1,6 +1,6 @@
 ### Привет 👋, меня зовут Евгения
-#### Я начинающий тестировщик
-Активно ищу работу
+#### Рада видеть тебя здесь!
+Я начинающий тестировщик! 
 
 Skills: SQL / PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swagger / Apidoc / Cygwin / Android Studio / YouTrack / JavaScript / Python / HTTP / Node.js / REST API /
 
