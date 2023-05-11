@@ -9,4 +9,4 @@ Skills: SQL / PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Ch
 
 <p align="left"> <a href="https://www.github.com/Zhekachka.git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@Zheka_chka)  
