@@ -1,8 +1,8 @@
 ### Привет 👋, меня зовут Евгения
 #### Рада видеть тебя здесь!
-Я начинающий тестировщик! Последние пол года училась на курсах Инженер по тестированию и в данный момент активно ищу работу!
+Я начинающий тестировщик! В данный момент участвую в различных проектах и активно ищу работу!
 
-SQL / PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swagger / Apidoc / Cygwin / Android Studio / YouTrack / JavaScript / Python / HTTP / Node.js / REST API /
+PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swagger / Apidoc / Cygwin / Android Studio / YouTrack / JavaScript / Python / HTTP / Node.js / REST API /
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
