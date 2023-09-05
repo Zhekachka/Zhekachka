@@ -8,9 +8,7 @@ PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swa
 
 ⚡ люблю котиков и печеньки 
 
-<p align="left"> <a href="https://www.github.com/Zhekachka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+![](https://komarev.com/ghpvc/?username=EvgeniyaKokareva)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Zheka_chka)  
-
-
-
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Zheka_chka)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/evgeniyakokareva)
