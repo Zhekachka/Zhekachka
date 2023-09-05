@@ -17,3 +17,4 @@ PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swa
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Zheka_chka)  
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
