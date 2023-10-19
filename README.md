@@ -1,8 +1,8 @@
 ### Привет 👋, меня зовут Евгения
 #### Рада видеть тебя здесь!
-Я тестировщик! В данный момент участвую в различных пет-проектах и активно ищу работу!
+Я - тестировщик! В данный момент участвую в различных пет-проектах, которые можно найти в репозиториях, а также стажируюсь в IT-компании!
 
-PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swagger / Apidoc / Cygwin / Android Studio / YouTrack / JavaScript / Python / HTTP / Node.js / REST API /
+PostgreSQL / Postman / Figma / API / Charles / DevTools / XML / Check-list / Swagger / Apidoc / Cygwin / Android Studio / YouTrack / JavaScript  / HTTP / Node.js / REST API /
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
